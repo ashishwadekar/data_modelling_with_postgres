@@ -31,7 +31,7 @@ In IPython:
 2. ```run etl.py```
 
 ## Database Schema
-![SparkifyDB Star Schema](https://user-images.githubusercontent.com/13130213/170811677-1cb22b9b-f91b-48b5-8497-690455e989a8.png)
+![SparkifyDB Star Schema](https://user-images.githubusercontent.com/13130213/170812018-44c3217c-6f2a-4e79-b71e-2d61bf93a090.png)
 
 ## ETL Process
 
